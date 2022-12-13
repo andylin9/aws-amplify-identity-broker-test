@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify-identity-broker-main-160824-authRole",
+      "UnauthRoleArn": "arn:aws:iam::295387529413:role/amplify-amplify-identity-broker-main-160824-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::295387529413:role/amplify-amplify-identity-broker-main-160824-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-amplify-identity-broker-main-160824-deployment",
+      "UnauthRoleName": "amplify-amplify-identity-broker-main-160824-unauthRole",
+      "StackName": "amplify-amplify-identity-broker-main-160824",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:295387529413:stack/amplify-amplify-identity-broker-main-160824/51d6c270-7abd-11ed-8192-0a94c633f4b3",
+      "AmplifyAppId": "d39htmyglcq8bi"
+    }
+  }
+}

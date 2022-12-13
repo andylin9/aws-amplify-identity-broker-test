@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "configLevel": "project",
+    "useProfile": false,
+    "awsConfigFilePath": "/Users/tvbs/.amplify/awscloudformation/gxk1p3q2Sp"
+  },
+  "main": {
+    "configLevel": "project",
+    "useProfile": false,
+    "awsConfigFilePath": "/Users/tvbs/.amplify/awscloudformation/mx5YDpnz81"
+  }
+}
